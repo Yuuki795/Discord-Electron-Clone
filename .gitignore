@@ -4,6 +4,7 @@ package-lock.json
 *.log
 .firebaserc
 yarn.lock
+package-lock.json
 # dependencies
 /node_modules
 /.pnp
